@@ -1,12 +1,12 @@
-<!-- Fluid Motion Header (Catppuccin Pink/Mauve Gradient, Bright Text) -->
+<!-- Fluid Motion Header (Forced Catppuccin Mocha Mauve) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=f5c2e7,cba6f7,eba0ac&height=120&section=header&text=STEPHIN%20DEVELOPS&fontSize=55&fontAlignY=50&animation=scaleIn&fontColor=cdd6f4" width="100%" alt="STEPHIN DEVELOPS" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=cba6f7&height=120&section=header&text=STEPHIN%20DEVELOPS&fontSize=55&fontAlignY=50&animation=scaleIn&fontColor=cdd6f4&v=mauve_force" width="100%" alt="STEPHIN DEVELOPS" />
 </div>
 
-<!-- Dynamic Typing Terminal (Catppuccin Pink/Mauve Cycle) -->
+<!-- Dynamic Typing Terminal (Forced Catppuccin Mocha Mauve) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=f5c2e7;cba6f7;eba0ac;f2cdcd&center=true&vCenter=true&width=550&lines=%3E_pacman+-Syu;%3E_configuring+wayland+compositors;%3E_exploring+distributed+systems;%3E_mastering+cloud+architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=cba6f7&center=true&vCenter=true&width=550&lines=%3E_pacman+-Syu;%3E_configuring+wayland+compositors;%3E_exploring+distributed+systems;%3E_mastering+cloud+architectures&v=mauve_force" alt="Typing SVG" />
   </a>
 </div>
 
