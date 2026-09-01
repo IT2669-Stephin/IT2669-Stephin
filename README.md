@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <b>Hey, I'm Stephin</b>
+  <b>👋 Hey, I'm Stephin</b>
 
 ### Developer • Linux Enthusiast • Open Source Explorer
 
@@ -34,9 +34,9 @@ I'm a developer who enjoys building things, experimenting with new technologies,
 ---
 
 <div align="center">
-<b></b>🐧 Linux & Open Source</b> </div>
-
-I enjoy customizing and experimenting with Linux, especially when it comes to creating a development environment that feels completely my own.
+<b>🐧 Linux & Open Source</b>
+<b><b>
+<b>I enjoy customizing and experimenting with Linux, especially when it comes to creating a development environment that feels completely my own</b> </div>
 
 **Current setup:**
 
@@ -60,10 +60,10 @@ GPU         → NVIDIA GTX 1650
 
 ---
 
-<p align="center">
+<div align="center">
+  <b>🤝Lets connect</b>
+  <b><b>
   <a href="https://github.com/stephin-develops">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
+</div>
