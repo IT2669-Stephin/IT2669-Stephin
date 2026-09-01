@@ -21,8 +21,71 @@
 
 ---
 
+# Hey, I'm Stephin Siby 👋
+
+### Developer • Linux Enthusiast • Open Source Explorer
+
+I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood.
+
+> *Build. Break. Learn. Improve. Repeat.*
+
+---
+
+## 🐧 Linux & Open Source
+
+I enjoy customizing and experimenting with Linux, especially when it comes to creating a development environment that feels completely my own.
+
+**Current setup:**
+
+```text
+OS          → Arch Linux
+WM          → Niri
+Shell       → Fish
+Editor      → Neovim
+Terminal    → Kitty
+Theme       → Noctalia
+Kernel      → Linux Zen
+GPU         → NVIDIA GTX 1650
+```
+
+I enjoy working with:
+
+* ⚙️ Linux configuration
+* 🖥️ Window managers
+* 🎨 Desktop customization
+* 🧩 Shell scripting
+* 🚀 Performance tuning
+* 🛠️ Developer tooling
+* 🎮 Linux gaming
+
+---
+
+## 🎯 Currently Learning
+
+```text
+▸ Advanced Linux
+▸ Data Structures & Algorithms
+▸ System Programming
+▸ Software Architecture
+▸ Open Source Development
+▸ Developer Tooling
+```
+---
+
 <div align="center">
   <b>📈 Contribution Streak</b>
   <br><br>
   <img src="https://streak-stats.demolab.com?user=stephin-develops&theme=tokyonight&hide_border=true"/>
 </div>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/stephin-develops">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
