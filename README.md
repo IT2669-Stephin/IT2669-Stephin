@@ -35,8 +35,8 @@ I'm a developer who enjoys building things, experimenting with new technologies,
 
 <div align="center">
 <b>🐧 Linux & Open Source</b>
-<b><b>
-<b>I enjoy customizing and experimenting with Linux, especially when it comes to creating a development environment that feels completely my own</b> </div>
+  
+I enjoy customizing and experimenting with Linux, especially when it comes to creating a development environment that feels completely my own </div>
 
 **Current setup:**
 
@@ -44,8 +44,8 @@ I'm a developer who enjoys building things, experimenting with new technologies,
 OS          → Arch Linux
 WM          → Niri
 Shell       → Fish
-Editor      → Neovim
-Terminal    → Kitty
+Editor      → Zed
+Terminal    → Ghostty
 Theme       → Noctalia
 Kernel      → Linux Zen
 GPU         → NVIDIA GTX 1650
@@ -62,7 +62,7 @@ GPU         → NVIDIA GTX 1650
 
 <div align="center">
   <b>🤝Lets connect</b>
-  <b><b>
+  
   <a href="https://github.com/stephin-develops">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
