@@ -12,14 +12,15 @@
 
 ---
 
-<p align="center">
-<a Hey, I'm Stephin
+<div align="center">
+  <b>Hey, I'm Stephin</b>
 
 ### Developer • Linux Enthusiast • Open Source Explorer
 
-I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood> </a> </p>
+I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood
 
 > *Build. Break. Learn. Improve. Repeat.*
+</div>
 
 ---
 
@@ -32,8 +33,8 @@ I'm a developer who enjoys building things, experimenting with new technologies,
 
 ---
 
-<p align="center">
-<a🐧 Linux & Open Source> </a> </p>
+<div align="center">
+<b></b>🐧 Linux & Open Source</b> </div>
 
 I enjoy customizing and experimenting with Linux, especially when it comes to creating a development environment that feels completely my own.
 
@@ -49,17 +50,6 @@ Theme       → Noctalia
 Kernel      → Linux Zen
 GPU         → NVIDIA GTX 1650
 ```
-
-I enjoy working with:
-
-* Linux configuration
-* Window managers
-* Desktop customization
-* Shell scripting
-* Performance tuning
-* Developer tooling
-* Linux gaming
-
 ---
 
 <div align="center">
