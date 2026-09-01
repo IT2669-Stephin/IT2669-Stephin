@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <b>📈 streak</b>
+  <b>📈 Contribution Streak</b>
   <br><br>
   <img src="https://streak-stats.demolab.com?user=stephin-develops&theme=tokyonight&hide_border=true"/>
 </div>
