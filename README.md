@@ -14,8 +14,7 @@
 
 <div align="center">
 <b>👋🏼 Hi, i'm stephin</b>
-<br>
-<br>
+<br><br>
   
 >*I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood.I'm particularly interested in software development, linux, system customization, developer tooling, and open-source technologies.* </div>
 
@@ -34,6 +33,7 @@
 <div align="center">
   <b>📊 Contribution Streak</b>
   <br><br>
+  
   <img src="https://streak-stats.demolab.com?user=stephin-develops&theme=tokyonight&hide_border=true"/>
 </div>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 <b>🐧 My Linux Configuration</b></div>
-<br>
+<br><br>
 
 ```text
 OS          → Arch Linux
@@ -57,7 +57,7 @@ GPU         → NVIDIA GTX 1650
 
 <p align="center">
   <i>Thanks for stopping by! ⭐</i>
-</p>
+</p><br>
 <div align="center">
   
 >*Build. Break. Learn. Improve. Repeat.*
