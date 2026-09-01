@@ -55,7 +55,7 @@ GPU         → NVIDIA GTX 1650
 <div align="center">
   
 >*Build. Break. Learn. Improve. Repeat.*
-<br>
+
 <b>🤝🏼 Let's Connect</b>
 <br><br>
   <a href="https://github.com/stephin-develops">
