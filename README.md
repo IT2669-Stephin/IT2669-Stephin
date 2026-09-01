@@ -33,9 +33,9 @@ I'm a developer who enjoys building things, experimenting with new technologies,
 ---
 
 <div align="center">
-<b>🐧My Linux Configuration</b>
-</div>
-### current setup  
+<b>🐧My Linux Configuration</b></div>
+
+ 
 ```text
 OS          → Arch Linux
 WM          → Niri
