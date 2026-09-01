@@ -14,15 +14,14 @@
 
 <div align="center">
   <b>👋🏼 Hi, i'm stephin</b>
-  <br>
-I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood
-<br>
+  <br><br>
 > *Build. Break. Learn. Improve. Repeat.*
   </div>
-  
+I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood
+
 ---
 
-<div align="centre">
+<div align="center">
   <b>🧰 My Tech Stack</b>
   <br><br>
   <!-- Tightly packed badges using a cohesive Catppuccin pastel palette -->
