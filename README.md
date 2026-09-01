@@ -13,16 +13,18 @@
 ---
 
 <div align="center">
+  <b>👋🏼 Hi, i'm stephin</b>
+  <br><br>
 Developer • Linux Enthusiast • Open Source Explorer 
-
+<br>
 > *Build. Break. Learn. Improve. Repeat.* </div>
-
+<br>
 I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood
 
 ---
 
 <div align="center">
-  <b>My Tech Stack</b>
+  <b>🧰 My Tech Stack</b>
   <br><br>
   <!-- Tightly packed badges using a cohesive Catppuccin pastel palette -->
   <img src="https://img.shields.io/badge/Arch_Linux-89b4fa?style=for-the-badge&logo=arch-linux&logoColor=1e1e2e" alt="Arch"/><img src="https://img.shields.io/badge/Wayland-cba6f7?style=for-the-badge&logo=wayland&logoColor=1e1e2e" alt="Wayland"/><img src="https://img.shields.io/badge/Niri_WM-f5c2e7?style=for-the-badge&logo=wayland&logoColor=1e1e2e" alt="Niri"/><img src="https://img.shields.io/badge/Noctalia-94e2d5?style=for-the-badge&logo=ghostery&logoColor=1e1e2e" alt="Noctalia"/><img src="https://img.shields.io/badge/Hyprland-89b4fa?style=for-the-badge&logo=wayland&logoColor=1e1e2e" alt="Hyprland"/><img src="https://img.shields.io/badge/Neovim-a6e3a1?style=for-the-badge&logo=neovim&logoColor=1e1e2e" alt="Neovim"/><img src="https://img.shields.io/badge/Ghostty-94e2d5?style=for-the-badge&logo=linux&logoColor=1e1e2e" alt="Ghostty"/><img src="https://img.shields.io/badge/Fish_Shell-f5c2e7?style=for-the-badge&logo=gnu-bash&logoColor=1e1e2e" alt="Fish"/><img src="https://img.shields.io/badge/Waybar-cba6f7?style=for-the-badge&logo=linux&logoColor=1e1e2e" alt="Waybar"/><img src="https://img.shields.io/badge/Open_Source-a6e3a1?style=for-the-badge&logo=open-source-initiative&logoColor=1e1e2e" alt="FOSS"/>
@@ -31,9 +33,9 @@ I'm a developer who enjoys building things, experimenting with new technologies,
 ---
 
 <div align="center">
-<b>My Linux Configuration</b></div>
-<b><b>
-  
+<b>🐧 My Linux Configuration</b></div>
+<br><br>
+
 ```text
 OS          → Arch Linux
 WM          → Niri
@@ -47,7 +49,7 @@ GPU         → NVIDIA GTX 1650
 ---
 
 <div align="center">
-  <b>Contribution Streak</b>
+  <b>📊 Contribution Streak</b>
   <br><br>
   <img src="https://streak-stats.demolab.com?user=stephin-develops&theme=tokyonight&hide_border=true"/>
 </div>
@@ -55,6 +57,8 @@ GPU         → NVIDIA GTX 1650
 ---
 
 <div align="center">
+  <b>🤝🏼 Let's connect</b>
+  <br><br>
   <a href="https://github.com/stephin-develops">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
