@@ -12,6 +12,17 @@
 
 ---
 
+<p align="center">
+<a Hey, I'm Stephin
+
+### Developer • Linux Enthusiast • Open Source Explorer
+
+I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood> </a> </p>
+
+> *Build. Break. Learn. Improve. Repeat.*
+
+---
+
 <div align="center">
   <b>🧰 My Tech Stack</b>
   <br><br>
@@ -21,17 +32,8 @@
 
 ---
 
-# Hey, I'm Stephin Siby 👋
-
-### Developer • Linux Enthusiast • Open Source Explorer
-
-I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood.
-
-> *Build. Break. Learn. Improve. Repeat.*
-
----
-
-## 🐧 Linux & Open Source
+<p align="center">
+<a🐧 Linux & Open Source> </a> </p>
 
 I enjoy customizing and experimenting with Linux, especially when it comes to creating a development environment that feels completely my own.
 
@@ -50,26 +52,14 @@ GPU         → NVIDIA GTX 1650
 
 I enjoy working with:
 
-* ⚙️ Linux configuration
-* 🖥️ Window managers
-* 🎨 Desktop customization
-* 🧩 Shell scripting
-* 🚀 Performance tuning
-* 🛠️ Developer tooling
-* 🎮 Linux gaming
+* Linux configuration
+* Window managers
+* Desktop customization
+* Shell scripting
+* Performance tuning
+* Developer tooling
+* Linux gaming
 
----
-
-## 🎯 Currently Learning
-
-```text
-▸ Advanced Linux
-▸ Data Structures & Algorithms
-▸ System Programming
-▸ Software Architecture
-▸ Open Source Development
-▸ Developer Tooling
-```
 ---
 
 <div align="center">
@@ -79,8 +69,6 @@ I enjoy working with:
 </div>
 
 ---
-
-## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/stephin-develops">
