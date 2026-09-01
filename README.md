@@ -14,9 +14,8 @@
 
 <div align="center">
 <b>👋🏼 Hi, i'm stephin</b>
-<br><br>
+</div><br>
 I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood
-</div>
 
 ---
 
@@ -56,7 +55,9 @@ GPU         → NVIDIA GTX 1650
 <div align="center">
   
 >*Build. Break. Learn. Improve. Repeat.*
-  
+<br>
+<b>🤝🏼 Let's Connect</b>
+<br>
   <a href="https://github.com/stephin-develops">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
