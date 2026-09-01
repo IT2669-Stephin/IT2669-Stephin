@@ -19,6 +19,8 @@
 
 > *Build. Break. Learn. Improve. Repeat.* </div>
 
+I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood
+
 ---
 
 <div align="center">
@@ -33,7 +35,7 @@
 <div align="center">
 <b>🐧My Linux Configuration</b>
 </div>
-
+<b></b>
 ```text
 OS          → Arch Linux
 WM          → Niri
