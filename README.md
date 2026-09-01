@@ -35,7 +35,7 @@ I'm a developer who enjoys building things, experimenting with new technologies,
 
 <div align="center">
 <b>🐧Linux & Open Source</b>
-  I enjoy customizing and experimenting with Linux, especially when it comes to creating a development environment that feels completely my own</div>
+</div>
 
 **Current setup:**
 
@@ -60,8 +60,6 @@ GPU         → NVIDIA GTX 1650
 ---
 
 <div align="center">
-  <b>🤝Lets connect</b>
-  <b><b>
   <a href="https://github.com/stephin-develops">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
