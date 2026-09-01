@@ -34,8 +34,8 @@ I'm a developer who enjoys building things, experimenting with new technologies,
 
 <div align="center">
 <b>🐧My Linux Configuration</b></div>
+<break></break>
 
- 
 ```text
 OS          → Arch Linux
 WM          → Niri
