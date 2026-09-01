@@ -57,7 +57,7 @@ GPU         → NVIDIA GTX 1650
 >*Build. Break. Learn. Improve. Repeat.*
 <br>
 <b>🤝🏼 Let's Connect</b>
-<br>
+<br><br>
   <a href="https://github.com/stephin-develops">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
