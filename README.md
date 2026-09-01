@@ -13,8 +13,6 @@
 ---
 
 <div align="center">
-  <b>Hey, I'm Stephin</b>
-
 Developer • Linux Enthusiast • Open Source Explorer 
 
 > *Build. Break. Learn. Improve. Repeat.* </div>
@@ -34,8 +32,8 @@ I'm a developer who enjoys building things, experimenting with new technologies,
 
 <div align="center">
 <b>My Linux Configuration</b></div>
-
-setup
+<b><b>
+  
 ```text
 OS          → Arch Linux
 WM          → Niri
