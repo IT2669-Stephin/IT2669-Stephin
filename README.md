@@ -14,9 +14,9 @@
 
 <div align="center">
 <b>👋🏼 Hi, i'm stephin</b>
-<br><br>
-  
->*I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood*
+<br>
+<p align="center">
+<i>I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood.I'm particularly interested in software development, linux, system customization, developer tooling, and open-source technologies</i></p>
 </div>
 
 ---
@@ -54,8 +54,11 @@ GPU         → NVIDIA GTX 1650
 ```
 ---
 
+<p align="center">
+  <i>Thanks for stopping by! ⭐</i>
+</p>
+<br>
 <div align="center">
   
 >*Build. Break. Learn. Improve. Repeat.*
-
 </div>
