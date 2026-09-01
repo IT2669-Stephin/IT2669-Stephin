@@ -41,7 +41,7 @@
 
 <div align="center">
 <b>🐧 My Linux Configuration</b></div>
-<br><br>
+<br>
 
 ```text
 OS          → Arch Linux
@@ -57,7 +57,7 @@ GPU         → NVIDIA GTX 1650
 
 <p align="center">
   <i>Thanks for stopping by! ⭐</i>
-</p><br>
+</p>
 <div align="center">
   
 >*Build. Break. Learn. Improve. Repeat.*
