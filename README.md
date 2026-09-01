@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-<b>👋🏼 Hi, i'm stephin</b>
+<b>👋🏼 Hi, I'm Stephin</b>
 <br><br>
   
 >*I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood. I'm particularly interested in software development, linux, system customization, developer tooling, and open-source technologies.* </div>
@@ -40,7 +40,7 @@
 ---
 
 <div align="center">
-<b>🐧 My Linux Configuration</b></div>
+<b>🐧 My Linux Specs</b></div>
 <br>
 
 ```text
