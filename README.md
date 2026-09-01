@@ -12,18 +12,17 @@
 
 ---
 
-<div align="left">
+<div align="center">
   <b>👋🏼 Hi, i'm stephin</b>
-  <br><br>
-Developer • Linux Enthusiast • Open Source Explorer
-  
-> *Build. Break. Learn. Improve. Repeat.* </div>
-<br>
+  <br>
 I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood
-
+<br>
+> *Build. Break. Learn. Improve. Repeat.*
+  </div>
+  
 ---
 
-<div align="left">
+<div align="centre">
   <b>🧰 My Tech Stack</b>
   <br><br>
   <!-- Tightly packed badges using a cohesive Catppuccin pastel palette -->
@@ -32,7 +31,7 @@ I'm a developer who enjoys building things, experimenting with new technologies,
 
 ---
 
-<div align="left">
+<div align="center">
 <b>🐧 My Linux Configuration</b></div>
 <br>
 
@@ -48,7 +47,7 @@ GPU         → NVIDIA GTX 1650
 ```
 ---
 
-<div align="left">
+<div align="center">
   <b>📊 Contribution Streak</b>
   <br><br>
   <img src="https://streak-stats.demolab.com?user=stephin-develops&theme=tokyonight&hide_border=true"/>
@@ -56,7 +55,7 @@ GPU         → NVIDIA GTX 1650
 
 ---
 
-<div align="left">
+<div align="center">
   <b>🤝🏼 Let's connect</b>
   <br><br>
   <a href="https://github.com/stephin-develops">
