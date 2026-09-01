@@ -34,7 +34,8 @@ I'm a developer who enjoys building things, experimenting with new technologies,
 
 <div align="center">
 <b>🐧My Linux Configuration</b>
-  
+</div>
+<b></b>  
 ```text
 OS          → Arch Linux
 WM          → Niri
@@ -45,7 +46,6 @@ Theme       → Noctalia
 Kernel      → Linux Zen
 GPU         → NVIDIA GTX 1650
 ```
-</div>
 ---
 
 <div align="center">
