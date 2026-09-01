@@ -14,9 +14,8 @@
 
 <div align="center">
   <b>👋🏼 Hi, i'm stephin</b>
-  <br><br>
+  <br>
 Developer • Linux Enthusiast • Open Source Explorer 
-<br>
 > *Build. Break. Learn. Improve. Repeat.* </div>
 <br>
 I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood
@@ -34,7 +33,7 @@ I'm a developer who enjoys building things, experimenting with new technologies,
 
 <div align="center">
 <b>🐧 My Linux Configuration</b></div>
-<br><br>
+<br>
 
 ```text
 OS          → Arch Linux
