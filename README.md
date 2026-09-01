@@ -13,11 +13,10 @@
 ---
 
 <div align="center">
+  
+>*Build. Break. Learn. Improve. Repeat.* <br>
   <b>👋🏼 Hi, i'm stephin</b>
   <br>
-  
->*Build. Break. Learn. Improve. Repeat.*
-
 </div><br>
 I'm a developer who enjoys building things, experimenting with new technologies, and understanding how software works under the hood
 
